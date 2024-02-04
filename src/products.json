@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Gold",
+      "categorySlug": "gold",
+      "imageLink": "https://cdnmedia-breeze.vaibhavjewellers.com/media/catalog/product/image/98278209/vaibhav-jewellers-22k-casting-gold-stud-earrings-79vg5202-79vg5202.jpg",
+      "productName": "Gold ear-rings",
+      "price": 21000
+    },
+    {
+      "id": 2,
+      "category": "Silver",
+      "categorySlug": "silver",
+      "imageLink": "https://images-cdn.ubuy.co.in/6537d3c5980db363b2777e8c-chimoda-sterling-silver-rings-for-men.jpg",
+      "productName": "Silver Men's ring",
+      "price": 9000
+    },
+    {
+      "id": 3,
+      "category": "Gold",
+      "categorySlug": "gold",
+      "imageLink": "https://cdnmedia-breeze.vaibhavjewellers.com/media/catalog/product/image/98278209/vaibhav-jewellers-22k-casting-gold-stud-earrings-79vg5202-79vg5202.jpg",
+      "productName": "Gold ear-rings",
+      "price": 21000
+    },
+    {
+      "id": 4,
+      "category": "Gold",
+      "categorySlug": "gold",
+      "imageLink": "https://cdnmedia-breeze.vaibhavjewellers.com/media/catalog/product/image/98278209/vaibhav-jewellers-22k-casting-gold-stud-earrings-79vg5202-79vg5202.jpg",
+      "productName": "Gold ear-rings",
+      "price": 21000
+    },
+    {
+      "id": 5,
+      "category": "Gold",
+      "categorySlug": "gold",
+      "imageLink": "https://cdnmedia-breeze.vaibhavjewellers.com/media/catalog/product/image/98278209/vaibhav-jewellers-22k-casting-gold-stud-earrings-79vg5202-79vg5202.jpg",
+      "productName": "Gold ear-rings",
+      "price": 21000
+    },
+    {
+      "id": 6,
+      "category": "Silver",
+      "categorySlug": "silver",
+      "imageLink": "https://images-cdn.ubuy.co.in/6537d3c5980db363b2777e8c-chimoda-sterling-silver-rings-for-men.jpg",
+      "productName": "Silver Men's ring",
+      "price": 9000
+    },
+    {
+      "id": 7,
+      "category": "Silver",
+      "categorySlug": "silver",
+      "imageLink": "https://images-cdn.ubuy.co.in/6537d3c5980db363b2777e8c-chimoda-sterling-silver-rings-for-men.jpg",
+      "productName": "Silver Men's ring",
+      "price": 9000
+    },
+    {
+      "id": 8,
+      "category": "Silver",
+      "categorySlug": "silver",
+      "imageLink": "https://images-cdn.ubuy.co.in/6537d3c5980db363b2777e8c-chimoda-sterling-silver-rings-for-men.jpg",
+      "productName": "Silver Men's ring",
+      "price": 9000
+    },
+    {
+      "id": 9,
+      "category": "Silver",
+      "categorySlug": "silver",
+      "imageLink": "https://images-cdn.ubuy.co.in/6537d3c5980db363b2777e8c-chimoda-sterling-silver-rings-for-men.jpg",
+      "productName": "Silver Men's ring",
+      "price": 9000
+    }
+   
+  ]
+}
