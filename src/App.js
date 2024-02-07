@@ -11,7 +11,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      {/* <BrowserRouter>
       <Navbar/>
         <Routes>
         <Route path="/" element={<Homepage />} />
@@ -20,7 +20,12 @@ function App() {
 
         </Routes>
       </BrowserRouter>
-      <Footer/>
+      <Footer/> */}
+      <center>
+        {" "}
+        <h1>Site is down due to pending payment.</h1>
+        <h3>Please pay your charges to continue your services.</h3>
+      </center>
     </div>
   );
 }
